@@ -32,7 +32,7 @@ var server = http.createServer(function (request, response) {
         <link rel="stylesheet" href="/x"></link>
       </head>
       <body>
-        <h1>喵喵喵</h1>
+        <h1>喵喵喵-汪汪汪</h1>
       <body>
     `)
     response.end()
